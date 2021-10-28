@@ -1,0 +1,5 @@
+program:
+  app: machine-sensor-filter
+  image: ahajati/sensor-filter
+  port: 3000
+  version: 1
